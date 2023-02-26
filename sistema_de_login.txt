@@ -1,4 +1,7 @@
 nome:
 sobrenome:
 email:
+departamento:
+cargo:
+id:
 senha:
